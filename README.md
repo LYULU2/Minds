@@ -17,3 +17,8 @@ There are four parts of the code
 2. Pre-process: cleans the text and make the text ready to be input into the model
 3. Sentiment-analysis: this part uses TextBlob library to output the score of the sentiment
 4. Plot: plots the data with a line graph
+
+## Data format
+*title*: headline of the article
+*content*: body of the article
+*time*: publishing date of the article
